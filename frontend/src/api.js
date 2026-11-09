@@ -14,7 +14,7 @@ export const api = {
     get(`/advisory?zone=${zone}&age=${p.age}&weight=${p.weight}` +
         `&activity=${p.activity}&duration_min=${p.duration}&exertion=${p.exertion}`),
   municipal: () => get('/municipal'),
-  healthcare: () => get('/healthcare'),
+  healthcare: () => get('/readiness'),
 };
 
 export const BAND_COLOR = { Low: '#2e7d32', Moderate: '#f9a825', High: '#ef6c00', Extreme: '#c62828' };

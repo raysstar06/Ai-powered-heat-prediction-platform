@@ -15,6 +15,6 @@ check "forecast central" "$BASE/risk/forecast?zone=central"
 check "advisory young-light" "$BASE/advisory?zone=central&age=25&activity=rest&duration_min=10&exertion=light"
 check "advisory elderly-heavy" "$BASE/advisory?zone=central&age=70&activity=outdoor_work&duration_min=240&exertion=heavy"
 check "municipal" "$BASE/municipal"
-check "healthcare" "$BASE/healthcare"
+check "readiness" "$BASE/readiness"
 echo "--- $pass passed, $fail failed ---"
 [ "$fail" -eq 0 ]

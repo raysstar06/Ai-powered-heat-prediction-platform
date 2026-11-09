@@ -161,7 +161,8 @@ def municipal():
     return {"ranking": ranked}
 
 
-@app.get("/healthcare")
+@app.get("/readiness")
+@app.get("/healthcare", include_in_schema=False)
 def healthcare():
     import pandas as pd
     import predict as predictor
