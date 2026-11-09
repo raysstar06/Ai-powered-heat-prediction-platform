@@ -1,0 +1,13 @@
+.venv/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.npm-cache/
+__pycache__/
+*.pyc
+*.pyo
+.env
+frontend/.env
+.DS_Store
+.vscode/
+*.log

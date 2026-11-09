@@ -1,0 +1,68 @@
+{
+  "h24": {
+    "persistence": {
+      "MAE": 0.535,
+      "RMSE": 0.689,
+      "R2": 0.688
+    },
+    "random_forest": {
+      "MAE": 1.233,
+      "RMSE": 1.395,
+      "R2": -0.278
+    },
+    "gradient_boosting": {
+      "MAE": 0.754,
+      "RMSE": 0.918,
+      "R2": 0.447
+    },
+    "xgboost": {
+      "MAE": 0.887,
+      "RMSE": 1.062,
+      "R2": 0.259
+    }
+  },
+  "h48": {
+    "persistence": {
+      "MAE": 0.618,
+      "RMSE": 0.774,
+      "R2": 0.614
+    },
+    "random_forest": {
+      "MAE": 0.924,
+      "RMSE": 1.136,
+      "R2": 0.167
+    },
+    "gradient_boosting": {
+      "MAE": 0.664,
+      "RMSE": 0.804,
+      "R2": 0.583
+    },
+    "xgboost": {
+      "MAE": 0.673,
+      "RMSE": 0.831,
+      "R2": 0.554
+    }
+  },
+  "h72": {
+    "persistence": {
+      "MAE": 0.593,
+      "RMSE": 0.765,
+      "R2": 0.623
+    },
+    "random_forest": {
+      "MAE": 0.999,
+      "RMSE": 1.147,
+      "R2": 0.151
+    },
+    "gradient_boosting": {
+      "MAE": 0.664,
+      "RMSE": 0.831,
+      "R2": 0.554
+    },
+    "xgboost": {
+      "MAE": 0.788,
+      "RMSE": 0.956,
+      "R2": 0.411
+    }
+  }
+}

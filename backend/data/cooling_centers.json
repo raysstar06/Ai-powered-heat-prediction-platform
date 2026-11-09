@@ -1,0 +1,27 @@
+{
+  "central": [
+    {"name": "Central Community Hall", "lat": 18.5210, "lon": 73.8570, "type": "cooling_center"},
+    {"name": "Central Water Point - Station Road", "lat": 18.5190, "lon": 73.8550, "type": "water_point"},
+    {"name": "Central Library Cooling Room", "lat": 18.5230, "lon": 73.8590, "type": "cooling_center"}
+  ],
+  "hadapsar-east": [
+    {"name": "Hadapsar School Shelter", "lat": 18.5085, "lon": 73.9265, "type": "cooling_center"},
+    {"name": "Hadapsar Water Point - Market", "lat": 18.5070, "lon": 73.9250, "type": "water_point"}
+  ],
+  "kothrud-west": [
+    {"name": "Kothrud Hall Shelter", "lat": 18.5079, "lon": 73.8082, "type": "cooling_center"},
+    {"name": "Kothrud Water Point - Depot", "lat": 18.5065, "lon": 73.8070, "type": "water_point"}
+  ],
+  "pimpri-north": [
+    {"name": "Pimpri Community Center", "lat": 18.6303, "lon": 73.8002, "type": "cooling_center"},
+    {"name": "Pimpri Water Point - Chowk", "lat": 18.6290, "lon": 73.7990, "type": "water_point"}
+  ],
+  "katraj-south": [
+    {"name": "Katraj School Hall", "lat": 18.4579, "lon": 73.8676, "type": "cooling_center"},
+    {"name": "Katraj Water Point - Lake Road", "lat": 18.4565, "lon": 73.8660, "type": "water_point"}
+  ],
+  "hinjawadi-it": [
+    {"name": "Hinjawadi IT Park Shelter", "lat": 18.5917, "lon": 73.7394, "type": "cooling_center"},
+    {"name": "Hinjawadi Water Point - Phase 1", "lat": 18.5905, "lon": 73.7380, "type": "water_point"}
+  ]
+}

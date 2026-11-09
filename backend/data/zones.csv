@@ -1,0 +1,7 @@
+zone_id,name,lat,lon,lat_min,lat_max,lon_min,lon_max,lst_offset_c,pop_density,elderly_share
+central,Central,18.5204,73.8567,18.4954,18.5454,73.8317,73.8817,2.1,12500,0.11
+hadapsar-east,Hadapsar-East,18.5080,73.9260,18.4830,18.5330,73.9010,73.9510,2.4,10800,0.09
+kothrud-west,Kothrud-West,18.5074,73.8077,18.4824,18.5324,73.7827,73.8327,1.2,9200,0.12
+pimpri-north,Pimpri-North,18.6298,73.7997,18.6048,18.6548,73.7747,73.8247,1.8,11500,0.08
+katraj-south,Katraj-South,18.4574,73.8671,18.4324,18.4824,73.8421,73.8921,1.5,8900,0.10
+hinjawadi-it,Hinjawadi-IT,18.5912,73.7389,18.5662,18.6162,73.7139,73.7639,1.0,6800,0.06
